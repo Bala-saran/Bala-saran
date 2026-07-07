@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/balasaran-v-380523309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/BalaSaran07"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/itzz._.bala._.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:balasaran.dev@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
+  <a href="mailto: balasaranmernstack@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=Bala-saran&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
 &nbsp;
