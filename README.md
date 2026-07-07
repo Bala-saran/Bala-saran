@@ -1,26 +1,66 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=BALA%20SARAN&fontSize=70&fontColor=8A2BE2&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20&descColor=00F0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header" width="100%"/>
+
+<!-- NAME LOCKUP -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=52&duration=1&pause=100000&color=8A2BE2&background=00000000&center=true&vCenter=true&width=700&height=90&lines=BALA+SARAN" />
+
+<img src="https://img.shields.io/badge/-AI%20ENGINEER%20•%20FULL%20STACK%20AI%20DEVELOPER-0D1117?style=flat-square&color=0D1117&labelColor=0D1117" height="4"/>
+
+<p>
+<img src="https://img.shields.io/badge/AI%20ENGINEER-8A2BE2?style=flat-square&labelColor=0D1117" height="30"/>
+<img src="https://img.shields.io/badge/•-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF" height="30"/>
+<img src="https://img.shields.io/badge/FULL%20STACK%20AI%20DEVELOPER-00F0FF?style=flat-square&labelColor=0D1117" height="30"/>
+</p>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=8A2BE2&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bala+Saran;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Intelligent+Systems+with+Python+%26+Deep+Learning;Exploring+LLMs%2C+RAG+%26+Generative+AI+%E2%9A%A1;Future+AI+Engineer+%7C+Full+Stack+AI+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bala+Saran;AI+%26+Data+Science+Student+%F0%9F%A7%A0;Building+Intelligent+Systems+with+Python+%26+Deep+Learning;Exploring+LLMs%2C+RAG+%26+Generative+AI+%E2%9A%A1;Future+AI+Engineer+%7C+Full+Stack+AI+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- APP-ICON STYLE SOCIAL DOCK -->
+<table>
+<tr>
+<td align="center" width="110">
+<a href="https://balasarans-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" height="55" width="100"/>
+</a>
+<br/><sub><b>Portfolio</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://www.linkedin.com/in/balasaran-v-380523309">
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="55" width="100"/>
+</a>
+<br/><sub><b>LinkedIn</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://x.com/BalaSaran07">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="55" width="100"/>
+</a>
+<br/><sub><b>X / Twitter</b></sub>
+</td>
+<td align="center" width="110">
+<a href="https://www.instagram.com/itzz._.bala._.7">
+<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="55" width="100"/>
+</a>
+<br/><sub><b>Instagram</b></sub>
+</td>
+<td align="center" width="110">
+<a href="mailto:balasaran.dev@gmail.com">
+<img src="https://img.shields.io/badge/-8A2BE2?style=for-the-badge&logo=gmail&logoColor=00F0FF" height="55" width="100"/>
+</a>
+<br/><sub><b>Email</b></sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://balasarans-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=00F0FF" /></a>
-  <a href="https://www.linkedin.com/in/balasaran-v-380523309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/BalaSaran07"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itzz._.bala._.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:balasaran.dev@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=Bala-saran&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Bala-saran?label=Followers&style=for-the-badge&color=00F0FF&labelColor=0f0c29" alt="followers"/>
 
 </div>
@@ -92,14 +132,41 @@ fun_fact: "I build, break, and learn — mostly open-source."
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,html,css,sql&theme=dark" /><br/><br/>
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" height="50" width="90"/><br/><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="50" width="90"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="50" width="90"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="50" width="90"/><br/><sub><b>SQL</b></sub></td>
+</tr>
+</table>
+
+<br/>
 
 ### 🤖 AI & Machine Learning
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logo=scikit-learn&logoColor=0f0c29" /><br/><br/>
+
+<table>
+<tr>
+<td align="center" width="140"><img src="https://img.shields.io/badge/-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" height="50" width="130"/><br/><sub><b>Artificial Intelligence</b></sub></td>
+<td align="center" width="140"><img src="https://img.shields.io/badge/-00F0FF?style=for-the-badge&logo=scikitlearn&logoColor=0D1117" height="50" width="130"/><br/><sub><b>Machine Learning</b></sub></td>
+</tr>
+</table>
+
+<br/><br/>
 
 ### 🧩 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,react&theme=dark" /><br/><br/>
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="50" width="90"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=pycharm&logoColor=00F0FF" height="50" width="90"/><br/><sub><b>PyCharm</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="50" width="90"/><br/><sub><b>Jupyter</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" height="50" width="90"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=00F0FF" height="50" width="90"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" height="50" width="90"/><br/><sub><b>React</b></sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -304,30 +371,43 @@ My personal developer portfolio — showcasing projects, skills, and journey as 
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="120">
 <a href="https://www.linkedin.com/in/balasaran-v-380523309">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="55" width="105"/>
 </a>
+<br/><sub><b>LinkedIn</b></sub>
+</td>
+<td align="center" width="120">
 <a href="https://x.com/BalaSaran07">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" height="55" width="105"/>
 </a>
+<br/><sub><b>X / Twitter</b></sub>
+</td>
+<td align="center" width="120">
 <a href="https://www.instagram.com/itzz._.bala._.7">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="55" width="105"/>
 </a>
-<a href="https://balasarans-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=00F0FF&labelColor=0f0c29" />
-</a>
+<br/><sub><b>Instagram</b></sub>
+</td>
+<td align="center" width="120">
 <a href="mailto:balasaran.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="55" width="105"/>
 </a>
+<br/><sub><b>Gmail</b></sub>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <a href="https://balasarans-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20My%20Work-8A2BE2?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-VIEW%20MY%20WORK-8A2BE2?style=for-the-badge&labelColor=0D1117" height="42"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://balasarans-portfolio.netlify.app/resume">
-  <img src="https://img.shields.io/badge/📄%20Resume-Download-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📄%20RESUME-DOWNLOAD-00F0FF?style=for-the-badge&labelColor=0D1117" height="42"/>
 </a>
 
 </div>
