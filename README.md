@@ -13,7 +13,7 @@
 <!-- SOCIAL BADGES -->
 <p>
   <a href="https://balasarans-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=00F0FF" /></a>
-  <a href="https://www.linkedin.com/in/%CA%99%E1%B4%80%CA%9F%E1%B4%80%EA%9C%B1%E1%B4%80%CA%80%E1%B4%80%C9%B4-%E1%B4%A0-380523309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/balasaran-v-380523309"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/BalaSaran07"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/itzz._.bala._.7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:balasaran.dev@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
@@ -30,7 +30,12 @@
 <!-- ABOUT ME -->
 <h2 align="center">🧠 About Me</h2>
 
-<table align="center" width="90%">
+<table align="center" width="92%">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/-●%20●%20●-0D1117?style=flat-square&labelColor=0D1117" width="60"/>
+</td>
+</tr>
 <tr>
 <td>
 
@@ -52,15 +57,17 @@ fun_fact: "I build, break, and learn — mostly open-source."
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
-🚀 &nbsp; Turning raw data into intelligent, real-world systems<br/>
-🔭 &nbsp; Currently deep-diving into **LLMs, RAG pipelines & Computer Vision**<br/>
-🌱 &nbsp; Sharpening skills in **MLOps** to ship production-grade AI<br/>
-🤝 &nbsp; Open to collaborating on **AI/ML & Full-Stack AI SaaS** projects<br/>
-⚡ &nbsp; Fueled by curiosity, caffeine, and clean commits
-
-</div>
+<table align="center" width="92%">
+<tr>
+<td width="20%" align="center">🚀<br/><sub><b>Building</b><br/>Real-world<br/>AI systems</sub></td>
+<td width="20%" align="center">🔭<br/><sub><b>Exploring</b><br/>LLMs, RAG &<br/>Computer Vision</sub></td>
+<td width="20%" align="center">🌱<br/><sub><b>Sharpening</b><br/>MLOps for<br/>production AI</sub></td>
+<td width="20%" align="center">🤝<br/><sub><b>Open to</b><br/>AI/ML & SaaS<br/>collaborations</sub></td>
+<td width="20%" align="center">⚡<br/><sub><b>Fueled by</b><br/>Curiosity &<br/>clean commits</sub></td>
+</tr>
+</table>
 
 <br/>
 
@@ -85,21 +92,14 @@ fun_fact: "I build, break, and learn — mostly open-source."
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,html,css,sql&theme=dark" /><br/><br/>
 
-### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=flask,fastapi,tensorflow,pytorch,opencv,react&theme=dark" /><br/><br/>
-
-### 🤖 AI & Machine Learning Stack
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" /><br/><br/>
+### 🤖 AI & Machine Learning
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logo=scikit-learn&logoColor=0f0c29" /><br/><br/>
 
 ### 🧩 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,react&theme=dark" /><br/><br/>
 
 </div>
 
@@ -171,7 +171,7 @@ My personal developer portfolio — showcasing projects, skills, and journey as 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bala-saran&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img src="https://streak-stats.demolab.com/?user=Bala-saran&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF"/>
 
 <br/><br/>
 
@@ -227,25 +227,26 @@ My personal developer portfolio — showcasing projects, skills, and journey as 
 <!-- LEARNING ROADMAP -->
 <h2 align="center">🗺️ Learning Roadmap</h2>
 
+<table align="center" width="90%">
+<tr><td>
+
+| Stage | Milestone | Status |
+|:---:|:---|:---:|
+| 01 | Python & ML Foundations | ✅ Done |
+| 02 | Deep Learning — TensorFlow / PyTorch | ✅ Done |
+| 03 | Computer Vision — OpenCV | ✅ Done |
+| 04 | Generative AI & LLMs | 🔄 In Progress |
+| 05 | RAG + LangChain | 🔄 In Progress |
+| 06 | MLOps & Deployment | 🔜 Upcoming |
+| 07 | Full-Stack AI Engineer | 🎯 Goal |
+
+</td></tr>
+</table>
+
 <div align="center">
 
-```mermaid
-graph LR
-    A[Python & ML Foundations ✅] --> B[Deep Learning: TensorFlow / PyTorch ✅]
-    B --> C[Computer Vision: OpenCV ✅]
-    C --> D[Generative AI & LLMs 🔄]
-    D --> E[RAG + LangChain 🔄]
-    E --> F[MLOps & Deployment 🔜]
-    F --> G[Full-Stack AI Engineer 🎯]
-
-    style A fill:#1c1c2e,stroke:#8A2BE2,color:#00F0FF
-    style B fill:#1c1c2e,stroke:#8A2BE2,color:#00F0FF
-    style C fill:#1c1c2e,stroke:#8A2BE2,color:#00F0FF
-    style D fill:#1c1c2e,stroke:#00F0FF,color:#ffffff
-    style E fill:#1c1c2e,stroke:#00F0FF,color:#ffffff
-    style F fill:#1c1c2e,stroke:#8A2BE2,color:#c9d1d9
-    style G fill:#0f0c29,stroke:#00F0FF,color:#00F0FF
-```
+<img src="https://img.shields.io/badge/Progress-57%25-8A2BE2?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://progress-bar.dev/57/?title=Roadmap&width=300&color=00F0FF"/>
 
 </div>
 
@@ -303,7 +304,7 @@ graph LR
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/%CA%99%E1%B4%80%CA%9F%E1%B4%80%EA%9C%B1%E1%B4%80%CA%80%E1%B4%80%C9%B4-%E1%B4%A0-380523309">
+<a href="https://www.linkedin.com/in/balasaran-v-380523309">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
 </a>
 <a href="https://x.com/BalaSaran07">
