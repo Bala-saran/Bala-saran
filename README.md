@@ -3,9 +3,7 @@
 <!-- ANIMATED BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=BALA%20SARAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20AI%20Developer&descAlignY=58&descSize=20&descColor=ffffff" width="100%" style="border-radius:22px; box-shadow:0 10px 30px rgba(255,255,255,0.15);"/>
 
-<div align="center" style="margin:10px auto 8px; padding:10px 18px; border-radius:999px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); display:inline-block; box-shadow:0 8px 24px rgba(0,0,0,0.2);">
-  <span style="font-size:24px; font-weight:700; color:#ffffff; letter-spacing:0.4px;">Hello! 👋</span>
-</div>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvT4L1Y7FUT3vRpPLaUSNQs2KTh2Kp_Nc4aT6FGLriEA&s=10" width="45%" style="border-radius:18px; box-shadow:0 8px 24px rgba(255,255,255,0.12);"/>
 
 <!-- INTRO TEXT -->
 <div align="center" style="max-width:920px; margin:10px auto 8px; padding:14px 18px; border-radius:20px; background:linear-gradient(135deg,rgba(255,255,255,0.06),rgba(138,43,226,0.12)); border:1px solid rgba(255,255,255,0.1); box-shadow:0 8px 24px rgba(0,0,0,0.2);">
@@ -20,22 +18,25 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:14px; margin:12px 0 20px;">
-  <a href="https://balasarans-portfolio.netlify.app/" style="display:inline-flex; align-items:center; gap:8px; padding:11px 16px; border-radius:999px; background:linear-gradient(135deg,#8A2BE2,#00F0FF); color:#ffffff; text-decoration:none; font-weight:700; box-shadow:0 8px 20px rgba(138,43,226,0.25);">
-    <span>🌐</span> Portfolio
-  </a>
-  <a href="https://www.linkedin.com/in/balasaran-v-380523309" style="display:inline-flex; align-items:center; gap:8px; padding:11px 16px; border-radius:999px; background:#0A66C2; color:#ffffff; text-decoration:none; font-weight:700; box-shadow:0 8px 20px rgba(10,102,194,0.24);">
-    <span>💼</span> LinkedIn
-  </a>
-  <a href="https://x.com/BalaSaran07" style="display:inline-flex; align-items:center; gap:8px; padding:11px 16px; border-radius:999px; background:#000000; color:#ffffff; text-decoration:none; font-weight:700; box-shadow:0 8px 20px rgba(0,0,0,0.24);">
-    <span>✖</span> X
-  </a>
-  <a href="https://www.instagram.com/itzz._.bala._.7" style="display:inline-flex; align-items:center; gap:8px; padding:11px 16px; border-radius:999px; background:linear-gradient(135deg,#f58529,#dd2a7b,#8134af,#515bd4); color:#ffffff; text-decoration:none; font-weight:700; box-shadow:0 8px 20px rgba(221,42,123,0.24);">
-    <span>📸</span> Instagram
-  </a>
-  <a href="mailto:balasaran.dev@gmail.com" style="display:inline-flex; align-items:center; gap:8px; padding:11px 16px; border-radius:999px; background:#ffffff; color:#8A2BE2; text-decoration:none; font-weight:700; box-shadow:0 8px 20px rgba(255,255,255,0.12);">
-    <span>✉️</span> Email
-  </a>
+<div align="center" style="margin:12px 0 20px;">
+  <p style="margin:0 0 10px; font-size:16px; font-weight:700; color:#f8fafc; letter-spacing:0.3px;">Connect with me</p>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+    <a href="https://balasarans-portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/balasaran-v-380523309">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/BalaSaran07">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://www.instagram.com/itzz._.bala._.7">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:balasaran.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Bala-saran&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="profile views"/>
